@@ -2,13 +2,13 @@
 
 <p align="center">
   <b>Welcome to my GitHub! 🚀</b><br>
-  I'm a passionate Computer Science student exploring the limitless world of technology. Feel free to explore my repositories and connect with me!
+  I'm a passionate Computer Science Graduate exploring the limitless world of technology. Feel free to explore my repositories and connect with me!
 </p>
 
 ---
 
 ### 🌟 About Me  
-- 🎓 **Final Year Computer Science Student** at Global Institute of Technology, Jaipur.  
+- 🎓 **Computer Science Graduate** from Global Institute of Technology, Jaipur.  
 - 💻 Passionate about solving problems and building impactful projects.  
 - 🌱 Currently enhancing my skills in **React.js**, **Node.js**, and **MERN Stack Development**.  
 - 🚀 Excited to collaborate on innovative projects and contribute to the tech community.  
@@ -17,7 +17,7 @@
 
 ### 🛠️ Technical Skills  
 - **Languages**: C++, JavaScript, HTML, CSS  
-- **Front-End**: React.js, Bootstrap, Tailwind CSS  
+- **Front-End**: React.js,Redux Toolkit, Bootstrap, Tailwind CSS  
 - **Back-End**: Node.js, Express.js, RESTful APIs  
 - **Databases**: MySQL, MongoDB  
 - **Tools**: GitHub, VS Code, Responsive Web Design  
